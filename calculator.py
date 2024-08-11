@@ -1,4 +1,4 @@
-#IMPORTING MODULE
+
 from tkinter import *
 from tkinter.ttk import *
 
