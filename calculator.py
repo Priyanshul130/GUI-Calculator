@@ -1,3 +1,5 @@
+# CREATED BY <PRIYANSHUL SHARMA>
+# Webpage Priyanshul.is-a.dev
 
 from tkinter import *
 from tkinter.ttk import *
